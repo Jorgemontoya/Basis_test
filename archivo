@@ -1,0 +1,4 @@
+
+elif ans == 'n':
+     print("Oh, you're not going ahead... OK.")
+     quit()
